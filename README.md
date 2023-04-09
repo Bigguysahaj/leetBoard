@@ -1,5 +1,4 @@
-# LeetBoard ![leetboard icon](https://user-images.githubusercontent.com/70798888/230801342-7a278892-9cf5-48d1-960c-e628fa439486.png)
-
+![leetboard icon](https://user-images.githubusercontent.com/70798888/230801342-7a278892-9cf5-48d1-960c-e628fa439486.png) # LeetBoard
 
 LeetBoard is a leetcode leaderboard app built for my college using React and Vite along with nodejs as backend.
 It's still in it's infancy.
