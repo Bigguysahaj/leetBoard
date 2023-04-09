@@ -1,4 +1,4 @@
-# 🏆 LeetBoard
+# 🏆 LeetBoard 🏆
 
 LeetBoard is a leetcode leaderboard app built for my college using React and Vite along with nodejs as backend.
 It's still in it's infancy.
