@@ -42,8 +42,6 @@ async function main() {
     const userJSON = await fs.readFile("../public/students.json", "utf-8");
     const usernames = JSON.parse(userJSON);
 
-    await fs.unlink('scores.txt').catch(err => console.log(err));
-
     for (const user of usernames) {
         await start(user);
     }
